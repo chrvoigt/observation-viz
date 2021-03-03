@@ -8,7 +8,6 @@ import datetime as dt
 import src.pages.ljubljana
 import src.pages.about
 import src.pages.datacleaning
-import src.pages.viz
 
 PAGES = {
     "Data Exploration": src.pages.datacleaning,
